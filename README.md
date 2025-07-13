@@ -23,8 +23,8 @@ This is a **final certification project** developed by **Issam Belayachi** as pa
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/your-username/ecommerce-etl-dashboard.git
-cd ecommerce-etl-dashboard
+git clone https://github.com/IssamBel/Web4Job-Data-Project.git
+cd Web4Job-Data-Project
 ```
 2. Install dependencies
 ```bash
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 4. Run the Streamlit app
 ```bash
-streamlit run app.py
+streamlit run data_app.py
 ```
 Open http://localhost:8501 in your browser.
 
