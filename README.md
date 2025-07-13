@@ -25,28 +25,16 @@ This is a **final certification project** developed by **Issam Belayachi** as pa
 ```bash
 git clone https://github.com/your-username/ecommerce-etl-dashboard.git
 cd ecommerce-etl-dashboard
-2. Create virtual environment (recommended)
-bash
-Copier
-Modifier
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install dependencies
-bash
-Copier
-Modifier
+```
+2. Install dependencies
+```bash
 pip install -r requirements.txt
-📦 For Excel support:
+```
 
-bash
-Copier
-Modifier
-pip install openpyxl
 4. Run the Streamlit app
-bash
-Copier
-Modifier
+```bash
 streamlit run app.py
+```
 Open http://localhost:8501 in your browser.
 
 🗃️ PostgreSQL Integration
